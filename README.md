@@ -29,7 +29,7 @@ import (
     "fmt"
     "log"
 
-    "github.com/yourusername/domaininfo"
+    "github.com/ByteBreach/domaininfo"
 )
 
 func main() {
